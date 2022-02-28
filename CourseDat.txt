@@ -1,0 +1,5 @@
+Physics2 6
+LALT 0
+RHET 6
+CS110 6
+SciThinking 3
